@@ -168,27 +168,6 @@
       ]
     },
     {
-      "displayName": "Linked Accounts",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Comptes li�s"
-        }
-      ],
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "facebookLinkedAccount"
-        },
-        {
-          "id": "gmbLinkedAccount"
-        },
-        {
-          "id": "linkedinLinkedAccount"
-        }
-      ]
-    },
-    {
       "displayName": "Social Media",
       "displayNameTranslations": [
         {
@@ -360,54 +339,6 @@
         }
       ],
       "entryType": "DIVIDER"
-    },
-    {
-      "defaultCollapsed": true,
-      "displayName": "Google Business Profile Fields",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Champs de fiche d\u0027�tablissement Google"
-        }
-      ],
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "googleEntityRelationship"
-        },
-        {
-          "id": "googleCoverPhoto"
-        },
-        {
-          "id": "googleProfilePhoto"
-        },
-        {
-          "id": "googleVideoGallery"
-        },
-        {
-          "id": "googleWebsiteOverride"
-        },
-        {
-          "id": "googlePlaceId"
-        },
-        {
-          "id": "googleMyBusinessLabels"
-        },
-        {
-          "id": "googleAttributes"
-        }
-      ]
-    },
-    {
-      "defaultCollapsed": true,
-      "displayName": "Google Business Profile Attributes",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Caract�ristiques Google Business Profile"
-        }
-      ],
-      "entryType": "SECTION"
     },
     {
       "defaultCollapsed": true,
