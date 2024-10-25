@@ -40,9 +40,6 @@
           "id": "addressHidden"
         },
         {
-          "id": "serviceAreaPlaces"
-        },
-        {
           "id": "mainPhone",
           "visibleOnAdd": true
         },
@@ -428,9 +425,6 @@
         },
         {
           "id": "labels"
-        },
-        {
-          "id": "googleAccountId"
         },
         {
           "id": "isoRegionCode"
